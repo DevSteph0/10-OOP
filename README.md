@@ -1,6 +1,10 @@
 # 10 Object-Oriented Programming: Team Profile Generator
 
-link:
+Url link: 
+
+file:///C:/Users/12064/Downloads/uwcs9/HW/10-OOP/Dist/index.html?id=intern&email=&officenumber=&officenumber=&officenumber=
+
+Vid link:
 
 chrome-extension://nocepbfomlobkggpnokaimlijaeapjph/recording-recovery.html
 
